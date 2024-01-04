@@ -11,14 +11,17 @@ button {
 button:nth-child(1) {
   border: solid;
   border-color: green;
+  background-color: white;
 }
 button:nth-child(2) {
   border: solid;
   border-color: yellow;
+  background-color: white;
 }
 button:nth-child(3) {
   border: solid;
   border-color: red;
+  background-color: white;
 }
 
 button:hover {
